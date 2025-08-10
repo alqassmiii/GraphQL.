@@ -85,16 +85,22 @@ The application is configured for Vercel deployment with proper SPA routing supp
 You can access the project by: https://graphql-e8mf.vercel.app/dashboard
 
 ### Login:
+<img width="1502" height="794" alt="Screenshot 2025-08-10 at 6 29 09 PM" src="https://github.com/user-attachments/assets/155e9a01-1a88-4c6e-b35e-b7b846458b6a" />
+<img width="1498" height="787" alt="Screenshot 2025-08-10 at 6 29 18 PM" src="https://github.com/user-attachments/assets/19feb55e-b796-4b02-8c3a-a8ec8202390e" />
 
-<img width="1500" height="758" alt="Screenshot 2025-07-30 at 4 40 22 PM" src="https://github.com/user-attachments/assets/f1719138-9cb4-4b9b-871c-5741d9d5bb98" />
+
+
 
 ### Dashboard :
 
-<img width="1502" height="757" alt="Screenshot 2025-07-30 at 4 39 09 PM" src="https://github.com/user-attachments/assets/c1ba9127-d2b5-44d2-8463-f7c751062ff6" />
+<img width="2992" height="1436" alt="image" src="https://github.com/user-attachments/assets/4d4eca51-ef13-41be-95fd-9c819f49f914" />
 
-<img width="1502" height="751" alt="Screenshot 2025-07-30 at 4 39 38 PM" src="https://github.com/user-attachments/assets/bb57676b-d875-4efb-9851-fc8b13543bb2" />
+<img width="2972" height="1378" alt="image" src="https://github.com/user-attachments/assets/2c1c8895-fcc0-4d6c-9fc7-6742e58944df" />
 
-<img width="1504" height="758" alt="Screenshot 2025-07-30 at 4 39 47 PM" src="https://github.com/user-attachments/assets/87bbf0c0-fd3d-49b3-9b34-333489edbcef" />
+<img width="2954" height="1512" alt="image" src="https://github.com/user-attachments/assets/df283dc0-44dd-40a7-a77e-52c848ca0614" />
+
+
+
 
 
 
